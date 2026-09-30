@@ -2,7 +2,7 @@ import streamlit as st
 st.set_page_config(page_title="AI Smart Agriculture", page_icon="🌱")
 
 st.title("🌱 AI-POWERED SMART AGRICULTURE PLATFORM")
-st.write("By V. Lavanya-20624u48027| Kamban College")
+st.write("By V. LAVANYA-20624u48027| Kamban College")
 
 menu = st.sidebar.selectbox("Select", ["Crop Recommendation", "Smart Irrigation", "Disease Detection"])
 
